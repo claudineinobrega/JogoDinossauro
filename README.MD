@@ -1,6 +1,6 @@
 # Jogo do Dinossauro
 
-## Clone do Jogo Dinossaro sem internet
+## Clone do Jogo Dinossauro sem internet
 
 ## Tecnologias Utilizadas:
 * Navegador Chrome
