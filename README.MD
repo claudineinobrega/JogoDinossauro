@@ -13,4 +13,4 @@
 
 ## Tela do projeto:
 
-![paginas_web](https://github.com/claudineinobrega/JogoDinossauro/img/game.png) 
+![paginas_web](https://github.com/claudineinobrega/JogoDinossauro/blob/master/img/game.png) 
